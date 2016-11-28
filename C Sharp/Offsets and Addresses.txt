@@ -1,0 +1,13 @@
+AssaultCube
+
+Health:
+
+PlayerBase: 00509B74
+EntityList: 
+
+Offset - F8
+Static: 00509B74
+
+Ammo: 
+Offset - 150
+00509B74 +  150 = Ammo for AR
