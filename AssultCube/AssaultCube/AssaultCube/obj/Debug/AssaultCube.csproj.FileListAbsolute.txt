@@ -5,3 +5,9 @@ C:\Users\Matty\Desktop\Coding\C#\AssaultCube\AssaultCube\AssaultCube\bin\Debug\A
 C:\Users\Matty\Desktop\Coding\C#\AssaultCube\AssaultCube\AssaultCube\bin\Debug\VAMemory.dll
 C:\Users\Matty\Desktop\Coding\C#\AssaultCube\AssaultCube\AssaultCube\obj\Debug\AssaultCube.exe
 C:\Users\Matty\Desktop\Coding\C#\AssaultCube\AssaultCube\AssaultCube\obj\Debug\AssaultCube.pdb
+C:\Users\Admin\Documents\GitHub\AssultCube\AssultCube\AssaultCube\AssaultCube\bin\Debug\AssaultCube.exe.config
+C:\Users\Admin\Documents\GitHub\AssultCube\AssultCube\AssaultCube\AssaultCube\bin\Debug\AssaultCube.exe
+C:\Users\Admin\Documents\GitHub\AssultCube\AssultCube\AssaultCube\AssaultCube\bin\Debug\AssaultCube.pdb
+C:\Users\Admin\Documents\GitHub\AssultCube\AssultCube\AssaultCube\AssaultCube\obj\Debug\AssaultCube.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Documents\GitHub\AssultCube\AssultCube\AssaultCube\AssaultCube\obj\Debug\AssaultCube.exe
+C:\Users\Admin\Documents\GitHub\AssultCube\AssultCube\AssaultCube\AssaultCube\obj\Debug\AssaultCube.pdb

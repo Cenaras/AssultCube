@@ -4,6 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using System.Runtime.InteropServices;
+using System.Diagnostics;
 
 namespace AssaultCube
 {
@@ -14,7 +15,7 @@ namespace AssaultCube
         static int healthOffset = 0xF8;
         static int ammoOffset = 0x150;
         static bool isRunning = false;
-        
+        static Process[] pName = Process.GetProcessesByName(process);
 
 
         //[DllImport("user32", CharSet = CharSet.Ansi, SetLastError = true)]
@@ -29,12 +30,12 @@ namespace AssaultCube
             int ammoAddress = LocalPlayer + ammoOffset;
             int healthAddress = LocalPlayer + healthOffset;
 
-            while (true)
-            {
-                vam.WriteInt32((IntPtr)ammoAddress, 1000);
-                vam.WriteInt32((IntPtr)healthAddress, 250);
-            }
 
+            while(true)
+            { 
+                    vam.WriteInt32((IntPtr)ammoAddress, 1000);
+                    vam.WriteInt32((IntPtr)healthAddress, 250);
+            }
         }
     }
 }
